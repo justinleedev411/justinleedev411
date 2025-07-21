@@ -1,5 +1,5 @@
 
-# Justin Lee – Full Stack Developer Portfolio ✨
+# High Quality – Full Stack Developer Portfolio ✨
 
 This is a fully responsive and modern personal portfolio website built with HTML, CSS, and JavaScript.  
 It’s designed to showcase projects, skills, and experience for a full-stack developer based in Singapore.
